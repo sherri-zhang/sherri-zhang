@@ -9,3 +9,5 @@ I'm passionate about using policy research and data to make equitable and effect
 - 🔍 I’m currently looking for a job in data analytics in policy upon graduation 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sherriz/)
 - ⚡️ Languages: SAS, ArcGIS, R 
+- ☀️ I grew up in California, 
+- 🏔 I enjoy hiking, 🎲 playing board games, and 📺 watching TV
